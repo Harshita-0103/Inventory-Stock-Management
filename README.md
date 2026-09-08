@@ -164,4 +164,5 @@ Product added successfully.
 8. Exit
 ========================================
 Enter your choice: 2
+
 <img width="384" height="103" alt="Screenshot 2026-09-08 214037" src="https://github.com/user-attachments/assets/03c8d778-41b9-489b-85cd-e3b36f2a5098" />
