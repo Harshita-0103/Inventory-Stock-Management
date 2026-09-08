@@ -166,3 +166,9 @@ Product added successfully.
 Enter your choice: 2
 
 <img width="384" height="103" alt="Screenshot 2026-09-08 214037" src="https://github.com/user-attachments/assets/03c8d778-41b9-489b-85cd-e3b36f2a5098" />
+<img width="370" height="73" alt="image" src="https://github.com/user-attachments/assets/bdc5213f-5e3f-4f5a-9be1-c34a8104d1c7" />
+<img width="256" height="97" alt="image" src="https://github.com/user-attachments/assets/60161729-f2bc-454f-a2d8-babf0416f1da" />
+<img width="287" height="92" alt="image" src="https://github.com/user-attachments/assets/4aeb121b-5fce-4e1d-8eb1-ac345e49faf0" />
+<img width="383" height="101" alt="image" src="https://github.com/user-attachments/assets/7dd791df-fb8f-4362-8ab7-0afd48c7f739" />
+
+
