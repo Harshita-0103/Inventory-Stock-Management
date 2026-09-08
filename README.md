@@ -1,16 +1,12 @@
 # Inventory Stock Management System
-
 A console-based Inventory Management System developed using Core Java.
 The application helps manage products, stock, sales, and inventory operations
 through a simple menu-driven interface.
 
 ## Project Overview
-
 Managing inventory manually can lead to stock errors, duplicate products,
 and difficulty in tracking sales.
-
 This project provides a simple Java-based solution to:
-
 - Add and manage products
 - Search products using Product ID
 - Update product stock
@@ -19,7 +15,6 @@ This project provides a simple Java-based solution to:
 - Delete products
 - Prevent duplicate Product IDs
 - Handle insufficient stock using custom exceptions
-
 The project is designed to demonstrate important Core Java concepts
 through a real-world application.
 
@@ -27,13 +22,11 @@ through a real-world application.
 
 ### 1. Add Product
 Users can add a new product by entering:
-
 - Product ID
 - Product Name
 - Category
 - Price
 - Quantity
-
 Duplicate Product IDs are not allowed.
 
 ### 2. View Products
@@ -46,7 +39,6 @@ Users can search for a product using its Product ID.
 Users can sell a specified quantity of a product.
 
 After a successful sale:
-
 - Product stock is automatically reduced.
 - Sale details are stored in sales history.
 - Total sale amount is calculated automatically.
@@ -59,7 +51,6 @@ Products can be removed from the inventory using their Product ID.
 
 ### 7. Sales History
 The system stores and displays:
-
 - Sale ID
 - Product ID
 - Product Name
@@ -68,17 +59,12 @@ The system stores and displays:
 - Sale Date and Time
 
 ### 8. Exception Handling
-
 The project uses custom exceptions to handle invalid inventory operations:
-
-- `DuplicateProductException`
-- `InsufficientStockException`
+- DuplicateProductException`
+- InsufficientStockException`
 
 ## Technologies Used
-
-- Java
 - Core Java
-- Object-Oriented Programming
 - Java Collections Framework
 - Exception Handling
 - Java Time API
@@ -86,9 +72,7 @@ The project uses custom exceptions to handle invalid inventory operations:
 - Git & GitHub
 
 ## Core Java Concepts Used
-
 This project demonstrates:
-
 - Classes and Objects
 - Constructors
 - Encapsulation
@@ -101,13 +85,9 @@ This project demonstrates:
 - `LocalDateTime`
 
 ## Collections Used
-
 ### ArrayList
-
 Used to store and manage multiple Product and Sale objects.
-
 ### HashMap
-
 Used to store products using Product ID as the key.
 
 # Output
@@ -165,9 +145,13 @@ Product added successfully.
 ========================================
 Enter your choice: 2
 
+#Add product and View products : 
 <img width="384" height="103" alt="Screenshot 2026-09-08 214037" src="https://github.com/user-attachments/assets/03c8d778-41b9-489b-85cd-e3b36f2a5098" /></br>
+#Search Product
 <img width="370" height="73" alt="image" src="https://github.com/user-attachments/assets/bdc5213f-5e3f-4f5a-9be1-c34a8104d1c7" /></br>
+#Sell Product
 <img width="256" height="97" alt="image" src="https://github.com/user-attachments/assets/60161729-f2bc-454f-a2d8-babf0416f1da" /></br>
+#Update Product
 <img width="287" height="92" alt="image" src="https://github.com/user-attachments/assets/4aeb121b-5fce-4e1d-8eb1-ac345e49faf0" /></br>
 <img width="383" height="101" alt="image" src="https://github.com/user-attachments/assets/7dd791df-fb8f-4362-8ab7-0afd48c7f739" />
 
